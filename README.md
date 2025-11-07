@@ -1,1 +1,1 @@
-# nterpretable-Fairness-Aware-ML-Toolkit
+# Interpretable-Fairness-Aware-ML-Toolkit
