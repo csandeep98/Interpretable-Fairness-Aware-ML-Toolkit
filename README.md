@@ -73,8 +73,8 @@ interpretable-fairness-toolkit/
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/Interpretable-Fairness-Aware-ML-Toolkit.git
+# Clone repository
+git clone https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit.git
 cd Interpretable-Fairness-Aware-ML-Toolkit
 
 # Install dependencies
@@ -236,7 +236,7 @@ privileged_groups = {
 
 ## 🧪 Testing
 
-Run the test suite:
+Run test suite:
 
 ```bash
 # Run all tests
@@ -274,7 +274,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/Interpretable-Fairness-Aware-ML-Toolkit.git
+git clone https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit.git
 cd Interpretable-Fairness-Aware-ML-Toolkit
 
 # Create virtual environment
@@ -302,9 +302,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: Report bugs via [GitHub Issues](https://github.com/your-username/Interpretable-Fairness-Aware-ML-Toolkit/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/your-username/Interpretable-Fairness-Aware-ML-Toolkit/discussions)
-- **Documentation**: Check our [Wiki](https://github.com/your-username/Interpretable-Fairness-Aware-ML-Toolkit/wiki) for detailed guides
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit/issues)
+- **Discussions**: Join our [GitHub Discussions](https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit/discussions)
+- **Documentation**: Check our [Wiki](https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit/wiki) for detailed guides
 
 ## 🔮 Roadmap
 
